@@ -1,22 +1,13 @@
 # test_project
 
-One porject to rule them all.
+> This Project Will:
+- wash your dishes
+- make your life complete
+- enables you to fly
 
-> THIS POJECT DOES:
-- change your life
-- change you
-- enable you to fly
-- wash your dishes 
-
-## YOUR MIGHT FEEL THE FOLLOWING SYMPTOMS
+# YOU MAY FEEL THE FOLLOWING SYMPTONS
 
 1. joy
 2. joy
-3. joy...
+3. joy... 
 4. more joy
-
-```py
-import re
-print('lel')
-# asdasd asnndna ns
-```
