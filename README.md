@@ -2,7 +2,7 @@
 
 One project to rule them all. 
 
-> This Project Will:
+> THIS PROJECT DOES:
 - wash your dishes
 - make your life complete
 - enables you to fly
